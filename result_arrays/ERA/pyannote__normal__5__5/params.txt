@@ -1,0 +1,4 @@
+model name: pyannote
+mode: normal
+num_support_val: 5
+audio_len: 5

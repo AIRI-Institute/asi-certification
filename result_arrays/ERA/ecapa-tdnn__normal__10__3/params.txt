@@ -1,0 +1,4 @@
+model name: ecapa-tdnn
+mode: normal
+num_support_val: 10
+audio_len: 3
